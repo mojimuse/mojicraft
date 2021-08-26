@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: This Is Mojicraft
-    subtitle: Optional hero section subtitle
+    subtitle: 'We create '
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
