@@ -5,9 +5,11 @@ sections:
     title: This Is Mojicraft
     subtitle: To create a digital identity through art and media.
     content: |
-      Digital avatar's can be imagined countless ways. 
+      Digital avatar's can be imagined countless ways.
 
-      Lets find your digital avatar with art and imagination.
+      Dream of finding your digital avatar through art and imagination?
+
+      You can with Mojicraft
     actions:
       - label: Try Free
         url: /pricing
