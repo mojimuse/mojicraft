@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: This Is Mojicraft
+    title: Character Creation;
     subtitle: To create a digital identity through art and media.
     content: |
       Digital avatar's can be imagined countless ways.
