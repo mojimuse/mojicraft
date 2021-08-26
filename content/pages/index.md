@@ -4,9 +4,12 @@ sections:
   - type: hero_section
     title: This Is Mojicraft
     subtitle: We create digital Identity
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: >+
+      Digital avatar's can be imagined countless ways. We can help create your
+      avatar to use on digtal media.
+
+
+
     actions:
       - label: Try Free
         url: /pricing
