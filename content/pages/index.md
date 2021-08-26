@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Character Creation;
+    title: Character Craft
     subtitle: To create a digital identity through art and media.
     content: |
       Digital avatar's can be imagined countless ways.
