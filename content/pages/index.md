@@ -9,7 +9,8 @@ sections:
 
       Dream of finding your digital avatar through art and imagination?
 
-      You can with Mojicraft
+
+      Welcome to Mojicraft
     actions:
       - label: Try Free
         url: /pricing
