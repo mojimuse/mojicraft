@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: This Is Mojicraft
-    subtitle: 'We create '
+    subtitle: We create digital Identity
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
